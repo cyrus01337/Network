@@ -30,6 +30,7 @@ return {
 }
 ```
 Here is how I organised mine if you would like a convention:
+
 ![Conventional design for Network](https://github.com/user-attachments/assets/15e9d0d1-1906-4d4a-8ba1-ce07d78c6235)
 
 Now you have fully-typed networking at your discretion.
